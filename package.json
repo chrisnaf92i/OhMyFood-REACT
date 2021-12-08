@@ -18,12 +18,7 @@
     "eject": "react-scripts eject",
     "sass": "sass --watch ./src/sass/main.scss:./src/css/style.css"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
+
   "browserslist": {
     "production": [
       ">0.2%",
