@@ -5,10 +5,10 @@ import "./css/style.css";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="header">
         <div>
         </div>
-        <img src={Logo} alt="Logo Oh My Food"/>
+        <img className="header__logo" src={Logo} alt="Logo Oh My Food"/>
         <div>
         </div>
       </header>
