@@ -1,0 +1,27 @@
+[
+    {
+        "name":"La palette du goût",
+        "imagesUrl":"../../images/restaurants/la-palette.jpg",
+        "city":"Ménilmontant",
+        "new":true
+    },
+
+    {
+        "name":"La note enchantée",
+        "imagesUrl":"../../images/restaurants/note-enchantée.jpg",
+        "city":"Charonne",
+        "new":true
+    },
+    {
+        "name":"À la française",
+        "imagesUrl":"../../images/restaurants/a-la-française.jpg",
+        "city":"Cité Rouge",
+        "new":false
+    },
+    {
+        "name":"Le délice des sens",
+        "imagesUrl":"../../images/restaurants/le-délice.jpg",
+        "city":"Folie-Méricourt",
+        "new":false
+    }
+]
